@@ -6,3 +6,5 @@ The code provided by Levin and colleagues in their paper "A Closed-Form Solution
 
 To run the code you just need the input RGB image and Depth image.
 A workspace is provided to avoid the running time.
+![my_result](https://user-images.githubusercontent.com/77103965/209366802-399d407f-75c9-42ed-85bc-f101a65518fc.jpg)
+![normal_map](https://user-images.githubusercontent.com/77103965/209366811-8e5f03d9-9ec5-46e4-b5f5-6e5a0b0925cc.jpg)
